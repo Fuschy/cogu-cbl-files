@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList>
-  <Name>COGU - Chapter 24 - Judgement Day/Name>
+  <Name>COGU - Chapter 24 - Judgement Day</Name>
   <Books>
     <Book Series="Defenders: Beyond" Number="1" Volume="2022" />
     <Book Series="Defenders: Beyond" Number="2" Volume="2022" />
