@@ -178,7 +178,7 @@
     <Book Series="Wakanda" Number="5" Volume="2022" />
     <Book Series="Black Panther" Number="11" Volume="2022" />
     <Book Series="Black Panther" Number="12" Volume="2022" />
-    <Book Panther" Number="13" Volume="2022" />
+    <Book Series="Black Panther" Number="13" Volume="2022" />
     <Book Series="Black Panther" Number="14" Volume="2022" />
     <Book Series="Black Panther" Number="15" Volume="2022" />
     <Book Series="The Avengers" Number="55" Volume="2018" />
